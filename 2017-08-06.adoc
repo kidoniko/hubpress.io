@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <title>讲个故事。关于法院利用管辖权转移办铁案的套路。</title>
+    <meta name="description" content="" />
+
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="shortcut icon" href="https://kidoniko.github.io/favicon.ico">
+
+    <link rel="stylesheet" type="text/css" href="//kidoniko.github.io/themes/casper/assets/css/screen.css?v=1502016446632" />
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,400" />
+
+    <link rel="canonical" href="https://kidoniko.github.io/2017-08-06.adoc" />
+    <meta name="referrer" content="origin" />
+    
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="讲个故事。关于法院利用管辖权转移办铁案的套路。" />
+    <meta property="og:description" content="这一日，王老板请市中院的李院长在酒店吃饭。 酒过三巡，王老板向李院长诉苦道：老哥，这案子要是搞到高院那就不好办了，您给我出出主意。 李院长笑道：你那事我听说了，你直接来中院起诉吧，没啥大问题。 王老板赶忙掏出了一题精装的铁盒说：您看，这是一斤（500g）咱自家生产的饼干，一点心意。 李院长心领神会道：保护民营企业发展是我们的责任嘛！ 王老板：老哥稳。 回到办公室，李院长叫来了区法院小赵院长，说：中院这有个案子，原告是本地知名企业，我看问题不大，交给你们下级法院锻炼一下。哦对了，最近中院执行庭空出个庭长的位子，我看你机会蛮大嘛。 或者副院长的职位，体会到意思就好了，级别待遇别较真 &amp;#8230;&amp;#8203;&amp;#8230;&amp;#8203;逃》 《法官法》第十一条：地方各级人民法院院长由地方各级" />
+    <meta property="og:url" content="https://kidoniko.github.io/2017-08-06.adoc" />
+    <meta property="article:published_time" content="2017-08-06T00:00:00.000Z" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="讲个故事。关于法院利用管辖权转移办铁案的套路。" />
+    <meta name="twitter:description" content="这一日，王老板请市中院的李院长在酒店吃饭。 酒过三巡，王老板向李院长诉苦道：老哥，这案子要是搞到高院那就不好办了，您给我出出主意。 李院长笑道：你那事我听说了，你直接来中院起诉吧，没啥大问题。 王老板赶忙掏出了一题精装的铁盒说：您看，这是一斤（500g）咱自家生产的饼干，一点心意。 李院长心领神会道：保护民营企业发展是我们的责任嘛！ 王老板：老哥稳。 回到办公室，李院长叫来了区法院小赵院长，说：中院这有个案子，原告是本地知名企业，我看问题不大，交给你们下级法院锻炼一下。哦对了，最近中院执行庭空出个庭长的位子，我看你机会蛮大嘛。 或者副院长的职位，体会到意思就好了，级别待遇别较真 &amp;#8230;&amp;#8203;&amp;#8230;&amp;#8203;逃》 《法官法》第十一条：地方各级人民法院院长由地方各级" />
+    <meta name="twitter:url" content="https://kidoniko.github.io/2017-08-06.adoc" />
+    
+    <script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "Article",
+    "author": {
+        "@type": "Person",
+        "name": "kidoniko",
+        "image": "https://avatars0.githubusercontent.com/u/29697716?v=4",
+        "url": "https://kidoniko.github.io/author/kidoniko/",
+        "sameAs": "http://nikiniki.tk",
+        "description": "不疯魔不成活"
+    },
+    "headline": "讲个故事。关于法院利用管辖权转移办铁案的套路。",
+    "url": "https://kidoniko.github.io/2017-08-06.adoc",
+    "datePublished": "2017-08-06T00:00:00.000Z",
+    "description": "这一日，王老板请市中院的李院长在酒店吃饭。 酒过三巡，王老板向李院长诉苦道：老哥，这案子要是搞到高院那就不好办了，您给我出出主意。 李院长笑道：你那事我听说了，你直接来中院起诉吧，没啥大问题。 王老板赶忙掏出了一题精装的铁盒说：您看，这是一斤（500g）咱自家生产的饼干，一点心意。 李院长心领神会道：保护民营企业发展是我们的责任嘛！ 王老板：老哥稳。 回到办公室，李院长叫来了区法院小赵院长，说：中院这有个案子，原告是本地知名企业，我看问题不大，交给你们下级法院锻炼一下。哦对了，最近中院执行庭空出个庭长的位子，我看你机会蛮大嘛。 或者副院长的职位，体会到意思就好了，级别待遇别较真 &amp;#8230;&amp;#8203;&amp;#8230;&amp;#8203;逃》 《法官法》第十一条：地方各级人民法院院长由地方各级"
+}
+    </script>
+
+    <meta name="generator" content="HubPress" />
+    <link rel="alternate" type="application/rss+xml" title="" href="https://kidoniko.github.io/rss/" />
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.10.0/styles/atom-one-dark.min.css">
+</head>
+<body class="post-template nav-closed">
+
+    
+
+    <div class="site-wrapper">
+
+        
+
+
+<header class="main-header post-head no-cover">
+    <nav class="main-nav  clearfix">
+        
+    </nav>
+</header>
+
+<main class="content" role="main">
+    <article class="post">
+
+        <header class="post-header">
+            <h1 class="post-title">讲个故事。关于法院利用管辖权转移办铁案的套路。</h1>
+            <section class="post-meta">
+                <time class="post-date" datetime="2017-08-06">06 August 2017</time> 
+            </section>
+        </header>
+
+        <section class="post-content">
+            <div class="sect2">
+<h3 id="__">这一日，王老板请市中院的李院长在酒店吃饭。</h3>
+
+</div>
+<div class="sect2">
+<h3 id="___2">酒过三巡，王老板向李院长诉苦道：老哥，这案子要是搞到高院那就不好办了，您给我出出主意。</h3>
+
+</div>
+<div class="sect2">
+<h3 id="___3">李院长笑道：你那事我听说了，你直接来中院起诉吧，没啥大问题。</h3>
+<div class="paragraph">
+<p>王老板赶忙掏出了一题精装的铁盒说：您看，这是一斤（500g）咱自家生产的饼干，一点心意。
+李院长心领神会道：保护民营企业发展是我们的责任嘛！
+王老板：老哥稳。
+回到办公室，李院长叫来了区法院小赵院长，说：中院这有个案子，原告是本地知名企业，我看问题不大，交给你们下级法院锻炼一下。哦对了，最近中院执行庭空出个庭长的位子，我看你机会蛮大嘛。
+或者副院长的职位，体会到意思就好了，级别待遇别较真 &#8230;&#8203;&#8230;&#8203;逃》</p>
+</div>
+<div class="paragraph">
+<p>《法官法》第十一条：地方各级人民法院院长由地方各级人民代表大会选举和罢免，副院长、审判委员会委员、庭长、副庭长和审判员由本院院长提请本级人民代表大会常务委员会任免。
+赵院长：谢院长赏识！我这就回去看材料！亲自担任审判长，两名副院长担任审判员，庭长做书记员，一定不辜负上级领导信任，把案子办好！把案子办牢！为本市的经济发展保驾护航！
+李院长这种行为在民诉里叫管辖权转移。</p>
+</div>
+<div class="paragraph">
+<p>12年修订前《民事诉讼法》第39条规定：“上级人民法院有权审理下级人民法院管辖的第一审民事案件，也可以把本院管辖的第一审民事案件交下级人民法院审理。</p>
+</div>
+<div class="paragraph">
+<p>本来上级法院将案件交由下级法院审理是民诉里的例外规定。但是在中国，这例外只要有利可图用着方便，在实际生活里就变成了捞外快的手段。
+而后，无须多言，一审王老板胜诉，外地企业上诉，这样案子自然的到了中院的李院长这。
+结果也就无须多言了嘛。
+民诉两审终审，这件本来要上到高院的案子就这样在中院这办成铁案。
+当然，这是在2012年之前。2012年相关制度修改后，中院再这么把案子甩给基层法院审就不好操作了，需要找高院批准。不过，这路还是没封死，只是今后给中院的那个500，得拆成两个250了。
+2012年修订后的《民事诉讼法》第38条规定：“上级人民法院有权审理下级人民法院管辖的第一审民事案件；确有必要将本院管辖的第一审民事案件交下级人民法院审理的，应当报请其上级人民法院批准。
+还有个关于法官的套路，放在另一个回答里
+有什么让你感慨套路好深的事情？ - 海杰夫的回答 - 知乎</p>
+</div>
+</div>
+        </section>
+
+        <footer class="post-footer">
+
+
+            <figure class="author-image">
+                <a class="img" href="https://kidoniko.github.io/author/kidoniko/" style="background-image: url(https://avatars0.githubusercontent.com/u/29697716?v&#x3D;4)"><span class="hidden">kidoniko's Picture</span></a>
+            </figure>
+
+            <section class="author">
+                <h4><a href="https://kidoniko.github.io/author/kidoniko/">kidoniko</a></h4>
+
+                    <p>不疯魔不成活</p>
+                <div class="author-meta">
+                    <span class="author-location icon-location">上海市</span>
+                    <span class="author-link icon-link"><a href="http://nikiniki.tk">http://nikiniki.tk</a></span>
+                </div>
+            </section>
+
+
+            <section class="share">
+                <h4>Share this post</h4>
+                <a class="icon-twitter" href="https://twitter.com/intent/tweet?text=%E8%AE%B2%E4%B8%AA%E6%95%85%E4%BA%8B%E3%80%82%E5%85%B3%E4%BA%8E%E6%B3%95%E9%99%A2%E5%88%A9%E7%94%A8%E7%AE%A1%E8%BE%96%E6%9D%83%E8%BD%AC%E7%A7%BB%E5%8A%9E%E9%93%81%E6%A1%88%E7%9A%84%E5%A5%97%E8%B7%AF%E3%80%82&amp;url=https://kidoniko.github.io/2017-08-06.adoc"
+                    onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+                    <span class="hidden">Twitter</span>
+                </a>
+                <a class="icon-facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://kidoniko.github.io/2017-08-06.adoc"
+                    onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+                    <span class="hidden">Facebook</span>
+                </a>
+                <a class="icon-google-plus" href="https://plus.google.com/share?url=https://kidoniko.github.io/2017-08-06.adoc"
+                   onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
+                    <span class="hidden">Google+</span>
+                </a>
+            </section>
+
+        </footer>
+
+
+    </article>
+
+</main>
+
+<aside class="read-next">
+</aside>
+
+
+
+        <footer class="site-footer clearfix">
+            <section class="copyright"><a href="https://kidoniko.github.io"></a> &copy; 2017</section>
+            <section class="poweredby">Proudly published with <a href="http://hubpress.io">HubPress</a></section>
+        </footer>
+
+    </div>
+
+    <script type="text/javascript" src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js?v="></script> <script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.9.0/moment-with-locales.min.js?v="></script> <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.10.0/highlight.min.js?v="></script> 
+      <script type="text/javascript">
+        jQuery( document ).ready(function() {
+          // change date with ago
+          jQuery('ago.ago').each(function(){
+            var element = jQuery(this).parent();
+            element.html( moment(element.text()).fromNow());
+          });
+        });
+
+        hljs.initHighlightingOnLoad();
+      </script>
+       
+    <script src='https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
+
+    <script type="text/javascript" src="//kidoniko.github.io/themes/casper/assets/js/jquery.fitvids.js?v=1502016446632"></script>
+    <script type="text/javascript" src="//kidoniko.github.io/themes/casper/assets/js/index.js?v=1502016446632"></script>
+
+</body>
+</html>
